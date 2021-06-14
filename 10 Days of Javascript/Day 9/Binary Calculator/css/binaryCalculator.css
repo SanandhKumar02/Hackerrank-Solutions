@@ -1,0 +1,39 @@
+body{
+    width: 33%;
+}
+
+#res{
+    background-color: lightgray;
+	border: solid;
+	border-color: black;
+	height: 48px;
+	font-size: 20px;
+}
+
+.lightG{
+    background-color: lightgreen;
+    color: brown;
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin:0px;
+    float: left;
+}
+.darkG{
+    background-color: darkgreen;
+    color: white;
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin:0px;
+    float: left;
+}
+.operator{
+    background-color: black;
+    color: red;
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin:0px;
+    float: left;
+}
